@@ -1,0 +1,20 @@
+#############################################
+
+Plugin:		View Unread Posts
+Version:	1.2
+Author:		Lukasz "LukasAMD" Tkacz
+WWW:      http://lukasamd.pl/
+Desc:     This plugin add a "view unread posts" function for all registered users.
+
+#############################################
+
+
+
+
+
+INSTALLATION:
+
+
+1. Upload all files from "root" directory to your mybb installation on the server
+
+2. Go to ACP -> Plugins and activate "View Unread Posts" plugin

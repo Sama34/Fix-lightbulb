@@ -1,0 +1,23 @@
+#############################################
+
+Nazwa:		Pokaż nieprzeczytane posty
+Wersja:	  1.2
+Autor:		Łukasz "LukasAMD" Tkacz
+WWW:      http://lukasamd.pl/
+Opis:     Ten plugin dodaje funkcję "pokaż nieprzeczytane posty" dla wszystkich zarejestrowanych użytkowników.
+
+#############################################
+
+
+
+
+
+INSTALACJA:
+
+
+1. Umieść wszystkie pliki z katalogu root na serwerze w katalogu z forum MyBB
+
+2. Wejdź do Panelu Administracyjnego -> Pluginy i zainstaluj "Pokaż nieprzeczytane posty"
+
+
+

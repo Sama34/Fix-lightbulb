@@ -1,0 +1,23 @@
+-------------- 1.4 --------------
+- fix search engine (new topic and read mark info)
+
+
+
+
+-------------- 1.3 --------------
+- minor fix in sql query
+
+
+
+
+-------------- 1.2 --------------
+- fix compatibility with MyBB 1.6
+- fix problem with change in templates
+- add a additional "lastmark" field
+
+
+
+
+-------------- 1.1 --------------
+- fix search engine (new topic and read mark info)
+- added persian language (by Pars)
